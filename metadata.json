@@ -1,0 +1,6 @@
+{
+  "name": "SEO Blog Writer",
+  "description": "Optimized blog post generator designed for perfect Rank Math SEO scoring using natural and expert SEO structures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
